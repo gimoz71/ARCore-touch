@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: c9fbf079eca35184283e3fb882d5bc33
+timeCreated: 1551970314
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bonnet_ok_bonnet_ok_002
+    100002: boot_ok_boot_ok_002
+    100004: bp_lb_002
+    100006: bp_lf_002
+    100008: bp_rb_002
+    100010: bp_rf_002
+    100012: bump_front_ok_002
+    100014: bump_rear_ok_002
+    100016: door_lf_wind_002
+    100018: door_rf_wind_002
+    100020: ND_RPM_002
+    100022: ND_SPD_002
+    100024: rim_rf_008
+    100026: rim_rf_009
+    100028: rim_rf_010
+    100030: rim_rf_011
+    100032: //RootNode
+    100034: rr_body_002
+    100036: rr_engine_002
+    100038: rr_int_glass_002
+    100040: rr_interior_002
+    100042: rr_interior_knp_002
+    100044: rr_lights_002
+    100046: rr_lights_glass_002
+    100048: rr_spd_002
+    100050: rr_stearling_002
+    100052: rr_stearling_1_004
+    100054: rr_stearling_1_005
+    100056: windscreen_ok_windscreen_ok_002
+    100058: carrozzeria
+    100060: plane
+    400000: bonnet_ok_bonnet_ok_002
+    400002: boot_ok_boot_ok_002
+    400004: bp_lb_002
+    400006: bp_lf_002
+    400008: bp_rb_002
+    400010: bp_rf_002
+    400012: bump_front_ok_002
+    400014: bump_rear_ok_002
+    400016: door_lf_wind_002
+    400018: door_rf_wind_002
+    400020: ND_RPM_002
+    400022: ND_SPD_002
+    400024: rim_rf_008
+    400026: rim_rf_009
+    400028: rim_rf_010
+    400030: rim_rf_011
+    400032: //RootNode
+    400034: rr_body_002
+    400036: rr_engine_002
+    400038: rr_int_glass_002
+    400040: rr_interior_002
+    400042: rr_interior_knp_002
+    400044: rr_lights_002
+    400046: rr_lights_glass_002
+    400048: rr_spd_002
+    400050: rr_stearling_002
+    400052: rr_stearling_1_004
+    400054: rr_stearling_1_005
+    400056: windscreen_ok_windscreen_ok_002
+    400058: carrozzeria
+    400060: plane
+    2100000: Chrome_002
+    2100002: NAVY_002
+    2100004: Logo_002
+    2100006: g18m1_002
+    2100008: g18m0_002
+    2100010: g17m3_002
+    2100012: g17m0_002
+    2100014: g24m4_011
+    2100016: GREY_002
+    2100018: Rim_002
+    2100020: g24m4_008
+    2100022: g4m3_002
+    2100024: Gauge_002
+    2100026: g4m1_002
+    2100028: g4m2_002
+    2100030: g24m4_010
+    2100032: palette_002
+    2100034: g8m2_002
+    2100036: Glass_002
+    2100038: g13m2_002
+    2100040: Speeker_002
+    2100042: g13m5_002
+    2100044: g13m1_002
+    2100046: g11m1_002
+    2100048: g11m14_002
+    2100050: g11m13_002
+    2100052: g11m11_002
+    2100054: g11m10_002
+    2100056: g11m8_002
+    2100058: g11m9_002
+    2100060: g11m12_002
+    2100062: g11m7_002
+    2100064: g11m6_002
+    2100066: g11m4_002
+    2100068: g11m16_002
+    2100070: g11m5_002
+    2100072: g11m15_002
+    2100074: g11m2_002
+    2100076: g11m3_002
+    2100078: g21m2_002
+    2100080: g21m1_002
+    2100082: g21m0_002
+    2100084: g21m3_002
+    2100086: g22m1_002
+    2100088: g2m10_002
+    2100090: g2m7_002
+    2100092: g2m4_002
+    2100094: g2m12_002
+    2100096: g0m5_001
+    2100098: g2m15_002
+    2100100: g2m6_002
+    2100102: g2m11_002
+    2100104: g2m13_002
+    2100106: g2m3_002
+    2100108: g2m2_002
+    2100110: Int_Logo
+    2100112: g1m0_002
+    2100114: g1m1_002
+    2100116: g6m2_002
+    2100118: g6m0_002
+    2100120: g6m1_002
+    2100122: g10m0_002
+    2100124: g24m4_009
+    2100126: g25m2_002
+    2100128: g25m0_002
+    2100130: Aluminium_002
+    2100132: g0m4_001
+    2100134: g0m6_002
+    2100136: g0m7_002
+    2100138: g0m2_001
+    2100140: g28m1_002
+    2100142: Int_002
+    2100144: g12m1_002
+    2100146: g27m3_002
+    2100148: g27m1_002
+    2100150: g15m1_002
+    2100152: g15m2_002
+    2100154: g15m5_002
+    2100156: Int_1_002
+    2100158: g3m2_002
+    2100160: g3m3_002
+    2100162: g5m2_002
+    2100164: g5m1_002
+    2100166: g5m0_002
+    2100168: g26m1_002
+    2100170: Chrome
+    2100172: NAVY_carrozzeria
+    2100174: Logo
+    2100176: luce
+    2100178: maniglia_portellone
+    2100180: pneumatico
+    2100182: GREY_carrozzeria
+    2100184: mozzo
+    2100186: Glass
+    2100188: interno_portiera_pannello
+    2100190: interno_portiera
+    2100192: interno_portiera_dettagli
+    2100194: albero_trasmissione
+    2100196: predelle-dettaglio
+    2100198: predelle_linee
+    2100200: parte_inferiore
+    2100202: plane
+    2300000: bonnet_ok_bonnet_ok_002
+    2300002: boot_ok_boot_ok_002
+    2300004: bp_lb_002
+    2300006: bp_lf_002
+    2300008: bp_rb_002
+    2300010: bp_rf_002
+    2300012: bump_front_ok_002
+    2300014: bump_rear_ok_002
+    2300016: door_lf_wind_002
+    2300018: door_rf_wind_002
+    2300020: ND_RPM_002
+    2300022: ND_SPD_002
+    2300024: rim_rf_008
+    2300026: rim_rf_009
+    2300028: rim_rf_010
+    2300030: rim_rf_011
+    2300032: rr_body_002
+    2300034: rr_engine_002
+    2300036: rr_int_glass_002
+    2300038: rr_interior_002
+    2300040: rr_interior_knp_002
+    2300042: rr_lights_002
+    2300044: rr_lights_glass_002
+    2300046: rr_spd_002
+    2300048: rr_stearling_002
+    2300050: rr_stearling_1_004
+    2300052: rr_stearling_1_005
+    2300054: windscreen_ok_windscreen_ok_002
+    2300056: carrozzeria
+    2300058: plane
+    3300000: bonnet_ok_bonnet_ok_002
+    3300002: boot_ok_boot_ok_002
+    3300004: bp_lb_002
+    3300006: bp_lf_002
+    3300008: bp_rb_002
+    3300010: bp_rf_002
+    3300012: bump_front_ok_002
+    3300014: bump_rear_ok_002
+    3300016: door_lf_wind_002
+    3300018: door_rf_wind_002
+    3300020: ND_RPM_002
+    3300022: ND_SPD_002
+    3300024: rim_rf_008
+    3300026: rim_rf_009
+    3300028: rim_rf_010
+    3300030: rim_rf_011
+    3300032: rr_body_002
+    3300034: rr_engine_002
+    3300036: rr_int_glass_002
+    3300038: rr_interior_002
+    3300040: rr_interior_knp_002
+    3300042: rr_lights_002
+    3300044: rr_lights_glass_002
+    3300046: rr_spd_002
+    3300048: rr_stearling_002
+    3300050: rr_stearling_1_004
+    3300052: rr_stearling_1_005
+    3300054: windscreen_ok_windscreen_ok_002
+    3300056: carrozzeria
+    3300058: plane
+    4300000: boot_ok_boot_ok_002
+    4300002: bonnet_ok_bonnet_ok_002
+    4300004: rim_rf_008
+    4300006: rim_rf_009
+    4300008: rr_spd_002
+    4300010: rim_rf_010
+    4300012: rr_stearling_002
+    4300014: door_lf_wind_002
+    4300016: rr_lights_002
+    4300018: bump_front_ok_002
+    4300020: bump_rear_ok_002
+    4300022: rr_interior_002
+    4300024: rr_engine_002
+    4300026: ND_RPM_002
+    4300028: rr_stearling_1_004
+    4300030: rim_rf_011
+    4300032: bp_rf_002
+    4300034: rr_body_002
+    4300036: bp_lb_002
+    4300038: rr_stearling_1_005
+    4300040: rr_lights_glass_002
+    4300042: bp_lf_002
+    4300044: door_rf_wind_002
+    4300046: rr_interior_knp_002
+    4300048: ND_SPD_002
+    4300050: rr_int_glass_002
+    4300052: windscreen_ok_windscreen_ok_002
+    4300054: bp_rb_002
+    4300056: carrozzeria
+    4300058: plane
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium_002
+    second: {fileID: 2100000, guid: f39f96b38c8067d499c4c2b544d61fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 7ab1c977fbc36ef4f9edb40e15f76d3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY_carrozzeria
+    second: {fileID: 2100000, guid: 0aaf598ec6c61a64eaa671244c01eaf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gauge_002
+    second: {fileID: 2100000, guid: 83dfaaec74dd3c0499c1aaaa46a898ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 10a3c18e1e7e9f849836396758834fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Int_002
+    second: {fileID: 2100000, guid: 178999f1107c8a240adef73f4078fff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Int_1_002
+    second: {fileID: 2100000, guid: 3e7d8f4c8a9dfb849b1ccd8cf891e09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Int_Logo
+    second: {fileID: 2100000, guid: 2b21c74b577a09742af74936ca9096f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo
+    second: {fileID: 2100000, guid: 67c77ae3520b350489cf7131d08b34d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NAVY_carrozzeria
+    second: {fileID: 2100000, guid: 7aea000e34ed8a342bf46a0472853613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speeker_002
+    second: {fileID: 2100000, guid: e1e3324fc1e8b054da63e03043d7b9bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: albero_trasmissione
+    second: {fileID: 2100000, guid: e359a6b913aa2b04ab503a5020782ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g0m2_001
+    second: {fileID: 2100000, guid: 582ee1dd4e4df734b8d9141d586598b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g10m0_002
+    second: {fileID: 2100000, guid: 937aca5462357ca43884dab5086f901e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m10_002
+    second: {fileID: 2100000, guid: 433d0ebe19c355e4cb08bffdb88eb31b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m11_002
+    second: {fileID: 2100000, guid: af0a1e411a26cc741879a36e721b7582, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m12_002
+    second: {fileID: 2100000, guid: 0a912bc2f74c9bd45893ed29351219ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m13_002
+    second: {fileID: 2100000, guid: 4ca49e3561905d244a53b6c06f3e4a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m14_002
+    second: {fileID: 2100000, guid: 026109e7be0eb0d40aa7c3646de0ea26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m15_002
+    second: {fileID: 2100000, guid: cda7b710b19672c4fa89ae36e5964e36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m16_002
+    second: {fileID: 2100000, guid: 78f6286e2a93f1041a361e9a37c71974, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m1_002
+    second: {fileID: 2100000, guid: a1cf77626e77df84ab4bb38f97d44047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m2_002
+    second: {fileID: 2100000, guid: 46c34403268758a4bb5182c21e5e8cb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m3_002
+    second: {fileID: 2100000, guid: 64b3aa1d277318b44ad9fba51368691a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m4_002
+    second: {fileID: 2100000, guid: 7dd3091be18844740a3e408824041b73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m5_002
+    second: {fileID: 2100000, guid: b9ed00f0aa707b141933cb68b60cd6a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m6_002
+    second: {fileID: 2100000, guid: 2f749e65f905a9b45aa1e5f609002a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m7_002
+    second: {fileID: 2100000, guid: 4ec72c30f6c738b45ad817b723887efb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m8_002
+    second: {fileID: 2100000, guid: 92f31bda5f5112e4ca6267bbabb3aa6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m9_002
+    second: {fileID: 2100000, guid: e79069dfb746c3d4aacac5cf5540000c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g17m0_002
+    second: {fileID: 2100000, guid: ade7f65012a7d0b4db224456ca6765c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g17m3_002
+    second: {fileID: 2100000, guid: 0d79b964e981efc4abe5d91b4a2ae27b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1m0_002
+    second: {fileID: 2100000, guid: 93b283a2523889747bd83366cee210f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1m1_002
+    second: {fileID: 2100000, guid: 7effd1f1229b10f4198e7447b3620eab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g21m0_002
+    second: {fileID: 2100000, guid: bb98525359039a7438854054eb1dc8cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g21m1_002
+    second: {fileID: 2100000, guid: 0359a2b90b7d3054c860b29a0d0a6e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g21m2_002
+    second: {fileID: 2100000, guid: 6d31fc28d1e416f47904af7264e2284b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g21m3_002
+    second: {fileID: 2100000, guid: 203b810461a9f2f408bed673cf4dccb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g22m1_002
+    second: {fileID: 2100000, guid: afdb0bb91e3f02f479a667c6bd55697a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g25m0_002
+    second: {fileID: 2100000, guid: 30357608d8fa7e74b9e9e9a642563542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g25m2_002
+    second: {fileID: 2100000, guid: 7c16c21b3e3976b46b981cc5902228c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g26m1_002
+    second: {fileID: 2100000, guid: 58b8da77938051d4d988589c580cb7bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g27m1_002
+    second: {fileID: 2100000, guid: 0e0d2a85736d9af4a86370d3661bc3ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g27m3_002
+    second: {fileID: 2100000, guid: 60037984a9549d847960388983c1b7ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g28m1_002
+    second: {fileID: 2100000, guid: 73c8fefe35fccb549b0b47c198f2fffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m10_002
+    second: {fileID: 2100000, guid: 0e93e69e7de8f0c499580687d4db89d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m11_002
+    second: {fileID: 2100000, guid: e72752eae22a0764797abb5998135bd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m12_002
+    second: {fileID: 2100000, guid: e6eb0f3024a36b74c9a21b0a77929783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m13_002
+    second: {fileID: 2100000, guid: ed0cb50098ff9de4f91fa6c86c0dcc70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m15_002
+    second: {fileID: 2100000, guid: 462331390eec8b84d9f4890dbd72e4f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m2_002
+    second: {fileID: 2100000, guid: 214709c1a41c55a43b31cbb5b31c2a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m3_002
+    second: {fileID: 2100000, guid: edf4b3f8cd84f1e4b888f082ea9d5a46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m4_002
+    second: {fileID: 2100000, guid: f90da7684829b2a47bd1f140396eef39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m6_002
+    second: {fileID: 2100000, guid: c074959fd3ff9f547885ca952a2ff4aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m7_002
+    second: {fileID: 2100000, guid: c5b0bb34ef02c4149a52dbe762ad49a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g3m2_002
+    second: {fileID: 2100000, guid: 07f4ce0e6c3cf714e9e86001a3f88ac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g3m3_002
+    second: {fileID: 2100000, guid: acdc74f432e4c4a46bf5a9bd42acfab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g4m1_002
+    second: {fileID: 2100000, guid: 025bfc61c17f3fc429e6ec306a3bf13a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g4m2_002
+    second: {fileID: 2100000, guid: e00da888106907a49a2db36c799d8837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g4m3_002
+    second: {fileID: 2100000, guid: 4163e947bf1868740a1203b6cc4a1563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g5m0_002
+    second: {fileID: 2100000, guid: e724eb73ffddc5a47bac45255c37f4c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g5m1_002
+    second: {fileID: 2100000, guid: bd1069c54e600524fbfacfd0293298ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g5m2_002
+    second: {fileID: 2100000, guid: f5b31baaee22be842aa56c7fea5b1e9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g6m0_002
+    second: {fileID: 2100000, guid: 9dddce48448ee3b48849915eb0129348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g6m1_002
+    second: {fileID: 2100000, guid: cbe73e4a0ddb53241a595d97f8c468b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g6m2_002
+    second: {fileID: 2100000, guid: 3e7abb5a318053e4ca01d3d352f1e982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g8m2_002
+    second: {fileID: 2100000, guid: 6f903e81f1727ae4582b4636b8c8cd09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interno_portiera
+    second: {fileID: 2100000, guid: ca502d091297fcd4a935e7a10247449e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interno_portiera_dettagli
+    second: {fileID: 2100000, guid: f99c3b82890bcd941bcc8175d1c0b173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interno_portiera_pannello
+    second: {fileID: 2100000, guid: c71c2c61d15f8d5428f8d7f03423f2a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: luce
+    second: {fileID: 2100000, guid: b63037de777e06a42bd13177bc195d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maniglia_portellone
+    second: {fileID: 2100000, guid: 8397753355bc94947aed641637141907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mozzo
+    second: {fileID: 2100000, guid: 7d13ba973186ddd49be096e6e4bef7c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_002
+    second: {fileID: 2100000, guid: 9ac77d321e909284ca39d5a06d6f2ae1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parte_inferiore
+    second: {fileID: 2100000, guid: a8a3127db02a0b749b77b7dff20d0509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plane
+    second: {fileID: 2100000, guid: 8a45fb3afe52f4048a2b1b75b56005cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pneumatico
+    second: {fileID: 2100000, guid: 990342354477bef49a8beffc55e0952d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: predelle-dettaglio
+    second: {fileID: 2100000, guid: 6816ae0dd513d27448ebc26e1e0f7961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: predelle_linee
+    second: {fileID: 2100000, guid: beafac89c2324d74db43e5318667489c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

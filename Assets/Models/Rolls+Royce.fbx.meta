@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 5c4d1e5ef3103df44aee9ab2d9327355
+timeCreated: 1551967194
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bonnet_ok_bonnet_ok.002
+    100002: boot_ok_boot_ok.002
+    100004: bp_lb.002
+    100006: bp_lf.002
+    100008: bp_rb.002
+    100010: bp_rf.002
+    100012: bump_front_ok.002
+    100014: bump_rear_ok.002
+    100016: door_lf_wind.002
+    100018: door_rf_wind.002
+    100020: ND_RPM.002
+    100022: ND_SPD.002
+    100024: rim_rf.008
+    100026: rim_rf.009
+    100028: rim_rf.010
+    100030: rim_rf.011
+    100032: //RootNode
+    100034: rr_body.002
+    100036: rr_engine.002
+    100038: rr_int_glass.002
+    100040: rr_interior.002
+    100042: rr_interior_knp.002
+    100044: rr_lights.002
+    100046: rr_lights_glass.002
+    100048: rr_spd.002
+    100050: rr_stearling.002
+    100052: rr_stearling_1.004
+    100054: rr_stearling_1.005
+    100056: windscreen_ok_windscreen_ok.002
+    400000: bonnet_ok_bonnet_ok.002
+    400002: boot_ok_boot_ok.002
+    400004: bp_lb.002
+    400006: bp_lf.002
+    400008: bp_rb.002
+    400010: bp_rf.002
+    400012: bump_front_ok.002
+    400014: bump_rear_ok.002
+    400016: door_lf_wind.002
+    400018: door_rf_wind.002
+    400020: ND_RPM.002
+    400022: ND_SPD.002
+    400024: rim_rf.008
+    400026: rim_rf.009
+    400028: rim_rf.010
+    400030: rim_rf.011
+    400032: //RootNode
+    400034: rr_body.002
+    400036: rr_engine.002
+    400038: rr_int_glass.002
+    400040: rr_interior.002
+    400042: rr_interior_knp.002
+    400044: rr_lights.002
+    400046: rr_lights_glass.002
+    400048: rr_spd.002
+    400050: rr_stearling.002
+    400052: rr_stearling_1.004
+    400054: rr_stearling_1.005
+    400056: windscreen_ok_windscreen_ok.002
+    2100000: g26m1.002
+    2100002: GREY.002
+    2100004: NAVY.002
+    2100006: Aluminium.002
+    2100008: Glass.002
+    2100010: g5m2.002
+    2100012: g5m1.002
+    2100014: g5m0.002
+    2100016: Int_1.002
+    2100018: g3m2.002
+    2100020: g3m3.002
+    2100022: Int.002
+    2100024: g15m1.002
+    2100026: g15m2.002
+    2100028: Speeker.002
+    2100030: g15m5.002
+    2100032: Chrome.002
+    2100034: g27m3.002
+    2100036: g27m1.002
+    2100038: g12m1.002
+    2100040: g28m1.002
+    2100042: Logo.002
+    2100044: g0m4.001
+    2100046: g0m6.002
+    2100048: g0m7.002
+    2100050: g0m5.001
+    2100052: g0m2.001
+    2100054: g25m2.002
+    2100056: g25m0.002
+    2100058: g24m4.009
+    2100060: Rim.002
+    2100062: g10m0.002
+    2100064: g6m2.002
+    2100066: g6m0.002
+    2100068: g6m1.002
+    2100070: g1m0.002
+    2100072: g1m1.002
+    2100074: g2m10.002
+    2100076: g2m7.002
+    2100078: g2m4.002
+    2100080: g2m12.002
+    2100082: Gauge.002
+    2100084: g2m15.002
+    2100086: g2m6.002
+    2100088: g2m11.002
+    2100090: g2m13.002
+    2100092: g2m3.002
+    2100094: g2m2.002
+    2100096: Int_Logo
+    2100098: palette.002
+    2100100: g22m1.002
+    2100102: g21m2.002
+    2100104: g21m1.002
+    2100106: g21m0.002
+    2100108: g21m3.002
+    2100110: g11m1.002
+    2100112: g11m14.002
+    2100114: g11m13.002
+    2100116: g11m11.002
+    2100118: g11m10.002
+    2100120: g11m8.002
+    2100122: g11m9.002
+    2100124: g11m12.002
+    2100126: g11m7.002
+    2100128: g11m6.002
+    2100130: g11m4.002
+    2100132: g11m16.002
+    2100134: g11m5.002
+    2100136: g11m15.002
+    2100138: g11m2.002
+    2100140: g11m3.002
+    2100142: g13m2.002
+    2100144: g13m5.002
+    2100146: g13m1.002
+    2100148: g8m2.002
+    2100150: g24m4.010
+    2100152: g4m3.002
+    2100154: g4m1.002
+    2100156: g4m2.002
+    2100158: g24m4.008
+    2100160: g24m4.011
+    2100162: g17m3.002
+    2100164: g17m0.002
+    2100166: g18m1.002
+    2100168: g18m0.002
+    2300000: bonnet_ok_bonnet_ok.002
+    2300002: boot_ok_boot_ok.002
+    2300004: bp_lb.002
+    2300006: bp_lf.002
+    2300008: bp_rb.002
+    2300010: bp_rf.002
+    2300012: bump_front_ok.002
+    2300014: bump_rear_ok.002
+    2300016: door_lf_wind.002
+    2300018: door_rf_wind.002
+    2300020: ND_RPM.002
+    2300022: ND_SPD.002
+    2300024: rim_rf.008
+    2300026: rim_rf.009
+    2300028: rim_rf.010
+    2300030: rim_rf.011
+    2300032: rr_body.002
+    2300034: rr_engine.002
+    2300036: rr_int_glass.002
+    2300038: rr_interior.002
+    2300040: rr_interior_knp.002
+    2300042: rr_lights.002
+    2300044: rr_lights_glass.002
+    2300046: rr_spd.002
+    2300048: rr_stearling.002
+    2300050: rr_stearling_1.004
+    2300052: rr_stearling_1.005
+    2300054: windscreen_ok_windscreen_ok.002
+    3300000: bonnet_ok_bonnet_ok.002
+    3300002: boot_ok_boot_ok.002
+    3300004: bp_lb.002
+    3300006: bp_lf.002
+    3300008: bp_rb.002
+    3300010: bp_rf.002
+    3300012: bump_front_ok.002
+    3300014: bump_rear_ok.002
+    3300016: door_lf_wind.002
+    3300018: door_rf_wind.002
+    3300020: ND_RPM.002
+    3300022: ND_SPD.002
+    3300024: rim_rf.008
+    3300026: rim_rf.009
+    3300028: rim_rf.010
+    3300030: rim_rf.011
+    3300032: rr_body.002
+    3300034: rr_engine.002
+    3300036: rr_int_glass.002
+    3300038: rr_interior.002
+    3300040: rr_interior_knp.002
+    3300042: rr_lights.002
+    3300044: rr_lights_glass.002
+    3300046: rr_spd.002
+    3300048: rr_stearling.002
+    3300050: rr_stearling_1.004
+    3300052: rr_stearling_1.005
+    3300054: windscreen_ok_windscreen_ok.002
+    4300000: bp_rb.002
+    4300002: windscreen_ok_windscreen_ok.002
+    4300004: rr_int_glass.002
+    4300006: ND_SPD.002
+    4300008: rr_interior_knp.002
+    4300010: door_rf_wind.002
+    4300012: bp_lf.002
+    4300014: rr_lights_glass.002
+    4300016: rr_stearling_1.005
+    4300018: bp_lb.002
+    4300020: rr_body.002
+    4300022: bp_rf.002
+    4300024: rim_rf.011
+    4300026: rr_stearling_1.004
+    4300028: ND_RPM.002
+    4300030: rr_engine.002
+    4300032: rr_interior.002
+    4300034: bump_rear_ok.002
+    4300036: bump_front_ok.002
+    4300038: rr_lights.002
+    4300040: door_lf_wind.002
+    4300042: rr_stearling.002
+    4300044: rim_rf.010
+    4300046: rr_spd.002
+    4300048: rim_rf.009
+    4300050: rim_rf.008
+    4300052: bonnet_ok_bonnet_ok.002
+    4300054: boot_ok_boot_ok.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium.002
+    second: {fileID: 2100000, guid: ebc3059b1dd58ab47baf353e209480ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome.002
+    second: {fileID: 2100000, guid: 40ce6edb3798cc342af1f0cbd7709ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY.002
+    second: {fileID: 2100000, guid: 71864be100c132b439884067a59de395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gauge.002
+    second: {fileID: 2100000, guid: 036a93d05dac8d042a2ec6ea37197ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.002
+    second: {fileID: 2100000, guid: 911329c198b35d34da09f0da5b6b35fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Int.002
+    second: {fileID: 2100000, guid: c11abed9dfd6f26459b0343b91912661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Int_1.002
+    second: {fileID: 2100000, guid: 287129d12553676419b892ecb13690ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Int_Logo
+    second: {fileID: 2100000, guid: 667183207ac5f9b4c8633d76a29ee537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo.002
+    second: {fileID: 2100000, guid: 1e883af6ba317da418e0114862fe550e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NAVY.002
+    second: {fileID: 2100000, guid: 40c9b9e560a080642b4f687f01bcee09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rim.002
+    second: {fileID: 2100000, guid: 1e7d16f6175c19e4d96c73c0ed4f8315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speeker.002
+    second: {fileID: 2100000, guid: 0349d6df9c824c4408548558bb25ec04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g0m2.001
+    second: {fileID: 2100000, guid: 76efd77d98e74df4eb134a2d80cb1a65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g0m4.001
+    second: {fileID: 2100000, guid: ebfd20ba8278b1541ae1edcab2371cd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g0m5.001
+    second: {fileID: 2100000, guid: 6031f3b06e923044cae4c2f912d70e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g0m6.002
+    second: {fileID: 2100000, guid: 421d93ca9235c974b98e83fa909b2e56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g0m7.002
+    second: {fileID: 2100000, guid: eb311225a1c75b84d86367e4e3101bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g10m0.002
+    second: {fileID: 2100000, guid: 751d609663422964b960858280824e7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m1.002
+    second: {fileID: 2100000, guid: 2ab25f4250369164980424942f6ebe62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m10.002
+    second: {fileID: 2100000, guid: 71ec05a529f88de4cbdab4f99595de6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m11.002
+    second: {fileID: 2100000, guid: 5a3a89c42538419499abdf9e2a22723e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m12.002
+    second: {fileID: 2100000, guid: 2f4965dc3521cb048869b883e6e411cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m13.002
+    second: {fileID: 2100000, guid: 3aeef1d18a6430e4198d01ba8df3105a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m14.002
+    second: {fileID: 2100000, guid: 7d8ec7b63cf005e4bab099aec15783ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m15.002
+    second: {fileID: 2100000, guid: 6fb1776a5d96b7049bc4cf7cfe29cb6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m16.002
+    second: {fileID: 2100000, guid: 6ceac53f274b87148a3b8dc139bd086e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m2.002
+    second: {fileID: 2100000, guid: c4d6315eb633d914eb5ec980e0c2cd19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m3.002
+    second: {fileID: 2100000, guid: c09a85940a73d3b42853c0b94d8b1a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m4.002
+    second: {fileID: 2100000, guid: bf4a4ef80d534f3418fa1dd31ab96d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m5.002
+    second: {fileID: 2100000, guid: d63bf89a7b4549348b51df0d048f870e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m6.002
+    second: {fileID: 2100000, guid: 135af2ccdafecba4e99b4ef46be2e9af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m7.002
+    second: {fileID: 2100000, guid: cb38bf48429c0ae4da8ea3767f785abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m8.002
+    second: {fileID: 2100000, guid: f601ec12e2ac8024fad7bd6fe74c5a61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g11m9.002
+    second: {fileID: 2100000, guid: 42d750b83f00c3d4184b583bfa49654b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g12m1.002
+    second: {fileID: 2100000, guid: 6a4f1aab957465b43a1b4553e1214b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g13m1.002
+    second: {fileID: 2100000, guid: e725005a67a6e0c418d970915d0d97bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g13m2.002
+    second: {fileID: 2100000, guid: 1771b5949a8972e4d94c2f3af00013cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g13m5.002
+    second: {fileID: 2100000, guid: 017c0ed3e53e43949851fec9a3d3bd56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g15m1.002
+    second: {fileID: 2100000, guid: 0d35e2a27f87dc04a8e3c039cc1a84e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g15m2.002
+    second: {fileID: 2100000, guid: 3ee79ded69f9e614896b7a4d4d252068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g15m5.002
+    second: {fileID: 2100000, guid: 0225229e7db58cc44b5e099e744a18b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g17m0.002
+    second: {fileID: 2100000, guid: 99ded8c42156b0c44bcc0e2348f29071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g17m3.002
+    second: {fileID: 2100000, guid: 2205f24e4bae78f4e800b921d0397588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g18m0.002
+    second: {fileID: 2100000, guid: 5bfc55af2c888c440b8323647cd1026f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g18m1.002
+    second: {fileID: 2100000, guid: 11ee798e2aece6540955c0627636c6d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1m0.002
+    second: {fileID: 2100000, guid: 3581fc9a6d8999c48a44fbea8a173031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1m1.002
+    second: {fileID: 2100000, guid: 2768fd1e64e7351408c9f001e80c6d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g21m0.002
+    second: {fileID: 2100000, guid: 1fe9fe886229001458e74b88f3fdf040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g21m1.002
+    second: {fileID: 2100000, guid: 37275cd8f3d7bd44e88df631ddab9ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g21m2.002
+    second: {fileID: 2100000, guid: de0bdaad90020ce4a94617707d8af5b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g21m3.002
+    second: {fileID: 2100000, guid: 5146049090c0cdf45b5f1195ccde1d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g22m1.002
+    second: {fileID: 2100000, guid: b904e7457414d6040a9ee9958439c73b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g24m4.008
+    second: {fileID: 2100000, guid: b9349ac629d79e047b1f50e47f900aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g24m4.009
+    second: {fileID: 2100000, guid: 9732e7f58ad75ad439b7ab362a8e0e5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g24m4.010
+    second: {fileID: 2100000, guid: 07aee3b68baa92447b45005a75a01d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g24m4.011
+    second: {fileID: 2100000, guid: ac448f45f7ef84f4abafe89d14cc29d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g25m0.002
+    second: {fileID: 2100000, guid: f254d0d0ac643b14a945353f29f365ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g25m2.002
+    second: {fileID: 2100000, guid: eb256240da7c76243a3a9f5ae1126222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g26m1.002
+    second: {fileID: 2100000, guid: 3633c47c6e404f34ba3878ac2982c7e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g27m1.002
+    second: {fileID: 2100000, guid: 0c2baf6e1f288e14d971599dfbbe8714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g27m3.002
+    second: {fileID: 2100000, guid: 5327978fd1a3e3f4bb37a6d2a2504336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g28m1.002
+    second: {fileID: 2100000, guid: 486b683c786a6994fb9499b0500a3209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m10.002
+    second: {fileID: 2100000, guid: 8a6d7009297214b4e8e297397c8dc298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m11.002
+    second: {fileID: 2100000, guid: f9c9b3c0928da5f438b980fc75aeeb25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m12.002
+    second: {fileID: 2100000, guid: 1c94fd2c9185b8b4986961f00fa871d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m13.002
+    second: {fileID: 2100000, guid: e6ece344c07f9274ea328aa2d999a6ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m15.002
+    second: {fileID: 2100000, guid: c3098c076ac456e4f84d42399d185aa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m2.002
+    second: {fileID: 2100000, guid: 7879b49ca4fcee14e9d8b6a58e187f76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m3.002
+    second: {fileID: 2100000, guid: 2de994abb675544419591eb41ff96cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m4.002
+    second: {fileID: 2100000, guid: eb747675f655c5847ab815202ebdd354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m6.002
+    second: {fileID: 2100000, guid: 14ba774810749ff41904d119ca991af5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g2m7.002
+    second: {fileID: 2100000, guid: fbc389b9e17f8364ebef289f152b51e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g3m2.002
+    second: {fileID: 2100000, guid: 82370676f2b4cab4a91a919e94a51a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g3m3.002
+    second: {fileID: 2100000, guid: e6f5ede09c21ead418fcd23104118d66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g4m1.002
+    second: {fileID: 2100000, guid: ce11062e711e11e47b69297113a2a425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g4m2.002
+    second: {fileID: 2100000, guid: 807b627902e73424ba8bc218f4b3cf47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g4m3.002
+    second: {fileID: 2100000, guid: 1a06ab6c6afe04b4da716c0addc37895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g5m0.002
+    second: {fileID: 2100000, guid: 48e93d003b86ab64592c0be3341d7767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g5m1.002
+    second: {fileID: 2100000, guid: b465bf5d3747eaf4888e31b1400d8a6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g5m2.002
+    second: {fileID: 2100000, guid: 8a48bb76e65ffdc468081b14d154765b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g6m0.002
+    second: {fileID: 2100000, guid: 3280d6c06fe00a94b9fefdf4daa44993, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g6m1.002
+    second: {fileID: 2100000, guid: 1ddfe8cdeb4686441a823ef94fa90888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g6m2.002
+    second: {fileID: 2100000, guid: 6628352c15bc5db40adfa8fd4e359865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g8m2.002
+    second: {fileID: 2100000, guid: a6518c494e6072f4aa09e8feb33df43d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette.002
+    second: {fileID: 2100000, guid: 6bcc8c9be31f7ad4397d6be8e056da9b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
